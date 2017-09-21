@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=p1\ p2
+comment0.target=ChessGame(java.lang.String,\ java.lang.String)
+comment0.text=Constructor\ requires\ the\ players\ Names,\ and\ will\ create\ the\ pieces\ for\ player.
+comment1.params=
+comment1.target=ChessBoard\ getBoard()
+comment1.text=Returns\ the\ board.
+comment2.params=board
+comment2.target=void\ setBoard(ChessBoard)
+comment2.text=Changes\ the\ board.
+comment3.params=
+comment3.target=java.util.List\ getPlayer1Pieces()
+comment4.params=
+comment4.target=java.util.List\ getPlayer2Pieces()
+numComments=5

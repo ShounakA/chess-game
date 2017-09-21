@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=owner\ loc\ game
+comment0.target=Bishop(java.lang.String,\ ChessLocation,\ ChessGame)
+comment0.text=This\ is\ the\ constructor.\ It\ requires\ the\ player,\ the\ location,\ and\ the\ game\ the\ piece\ will\ be\ in.
+comment1.params=newLoc
+comment1.target=boolean\ moveTo(ChessLocation)
+comment1.text=Checks\ the\ constraints\ of\ the\ move,\ and\ if\ true\ will\ move\ the\ piece
+comment2.params=newLoc
+comment2.target=void\ updateThreateningLocation(ChessLocation)
+numComments=3

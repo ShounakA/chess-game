@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChessBoard()
+comment0.text=This\ constructor\ makes\ the\ "tiles"\ of\ the\ board.
+comment1.params=
+comment1.target=void\ createBoard()
+comment1.text=This\ prints\ the\ board\ onto\ the\ terminal\ with\ all\ the\ pieces\ that\ were\ created.
+comment2.params=x\ y
+comment2.target=boolean\ isPieceAt(int,\ int)
+comment2.text=Returns\ true\ if\ there\ is\ a\ piece\ at\ the\ provided\ tile\ coordinates.
+comment3.params=piece\ loc
+comment3.target=void\ placePieceAt(ChessPiece,\ ChessLocation)
+comment3.text=Places\ piece\ on\ the\ board.
+comment4.params=loc
+comment4.target=void\ removePiece(ChessLocation)
+comment4.text=Removes\ piece\ from\ the\ board.
+comment5.params=x\ y
+comment5.target=ChessPiece\ getPiece(int,\ int)
+comment5.text=Returns\ the\ specified\ piece
+numComments=6

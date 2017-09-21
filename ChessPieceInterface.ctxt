@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=location
+comment0.target=boolean\ moveTo(ChessLocation)
+comment0.text=This\ moves\ the\ ChessPiece\ provided\ its\ within\ the\ bounds
+numComments=1
